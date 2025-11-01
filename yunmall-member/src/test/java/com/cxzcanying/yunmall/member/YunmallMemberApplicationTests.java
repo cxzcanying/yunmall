@@ -1,0 +1,13 @@
+package com.cxzcanying.yunmall.member;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class YunmallMemberApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}

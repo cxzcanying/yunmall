@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.cxzcanying.yunmall</groupId>
+    <artifactId>yunmall</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>yunmall</name>
+    <description>云上商城聚合服务</description>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>yunmall-coupon</module>
+        <module>yunmall-order</module>
+        <module>yunmall-product</module>
+        <module>yunmall-member</module>
+        <module>yunmall-ware</module>
+    </modules>
+
+</project>
